@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "name": "PHP Annotations validator",
+  "description": "A simple php app to validate a json schema in annotations",
   "repository": "https://github.com/heroku/php-getting-started",
   "addons": []
 }
